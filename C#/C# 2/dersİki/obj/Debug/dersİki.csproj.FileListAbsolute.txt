@@ -1,0 +1,8 @@
+D:\Unity Projeler\dersİki\dersİki\bin\Debug\dersİki.exe.config
+D:\Unity Projeler\dersİki\dersİki\bin\Debug\dersİki.exe
+D:\Unity Projeler\dersİki\dersİki\bin\Debug\dersİki.pdb
+D:\Unity Projeler\dersİki\dersİki\obj\Debug\dersİki.csproj.AssemblyReference.cache
+D:\Unity Projeler\dersİki\dersİki\obj\Debug\dersİki.csproj.SuggestedBindingRedirects.cache
+D:\Unity Projeler\dersİki\dersİki\obj\Debug\dersİki.csproj.CoreCompileInputs.cache
+D:\Unity Projeler\dersİki\dersİki\obj\Debug\dersİki.exe
+D:\Unity Projeler\dersİki\dersİki\obj\Debug\dersİki.pdb

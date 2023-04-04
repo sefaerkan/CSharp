@@ -1,0 +1,8 @@
+D:\Unity Projeler\dersAlti\dersAlti\bin\Debug\dersAlti.exe.config
+D:\Unity Projeler\dersAlti\dersAlti\bin\Debug\dersAlti.exe
+D:\Unity Projeler\dersAlti\dersAlti\bin\Debug\dersAlti.pdb
+D:\Unity Projeler\dersAlti\dersAlti\obj\Debug\dersAlti.csproj.AssemblyReference.cache
+D:\Unity Projeler\dersAlti\dersAlti\obj\Debug\dersAlti.csproj.SuggestedBindingRedirects.cache
+D:\Unity Projeler\dersAlti\dersAlti\obj\Debug\dersAlti.csproj.CoreCompileInputs.cache
+D:\Unity Projeler\dersAlti\dersAlti\obj\Debug\dersAlti.exe
+D:\Unity Projeler\dersAlti\dersAlti\obj\Debug\dersAlti.pdb

@@ -1,0 +1,8 @@
+D:\Unity Projeler\dersDort\dersDort\bin\Debug\dersDort.exe.config
+D:\Unity Projeler\dersDort\dersDort\bin\Debug\dersDort.exe
+D:\Unity Projeler\dersDort\dersDort\bin\Debug\dersDort.pdb
+D:\Unity Projeler\dersDort\dersDort\obj\Debug\dersDort.csproj.AssemblyReference.cache
+D:\Unity Projeler\dersDort\dersDort\obj\Debug\dersDort.csproj.SuggestedBindingRedirects.cache
+D:\Unity Projeler\dersDort\dersDort\obj\Debug\dersDort.csproj.CoreCompileInputs.cache
+D:\Unity Projeler\dersDort\dersDort\obj\Debug\dersDort.exe
+D:\Unity Projeler\dersDort\dersDort\obj\Debug\dersDort.pdb

@@ -1,0 +1,8 @@
+D:\Unity Projeler\GoogleApp\GoogleApp\bin\Debug\GoogleApp.exe.config
+D:\Unity Projeler\GoogleApp\GoogleApp\bin\Debug\GoogleApp.exe
+D:\Unity Projeler\GoogleApp\GoogleApp\bin\Debug\GoogleApp.pdb
+D:\Unity Projeler\GoogleApp\GoogleApp\obj\Debug\GoogleApp.csproj.AssemblyReference.cache
+D:\Unity Projeler\GoogleApp\GoogleApp\obj\Debug\GoogleApp.csproj.SuggestedBindingRedirects.cache
+D:\Unity Projeler\GoogleApp\GoogleApp\obj\Debug\GoogleApp.csproj.CoreCompileInputs.cache
+D:\Unity Projeler\GoogleApp\GoogleApp\obj\Debug\GoogleApp.exe
+D:\Unity Projeler\GoogleApp\GoogleApp\obj\Debug\GoogleApp.pdb

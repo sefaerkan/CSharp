@@ -1,0 +1,8 @@
+D:\Unity Projeler\dersUc\dersUc\bin\Debug\dersUc.exe.config
+D:\Unity Projeler\dersUc\dersUc\bin\Debug\dersUc.exe
+D:\Unity Projeler\dersUc\dersUc\bin\Debug\dersUc.pdb
+D:\Unity Projeler\dersUc\dersUc\obj\Debug\dersUc.csproj.AssemblyReference.cache
+D:\Unity Projeler\dersUc\dersUc\obj\Debug\dersUc.csproj.SuggestedBindingRedirects.cache
+D:\Unity Projeler\dersUc\dersUc\obj\Debug\dersUc.csproj.CoreCompileInputs.cache
+D:\Unity Projeler\dersUc\dersUc\obj\Debug\dersUc.exe
+D:\Unity Projeler\dersUc\dersUc\obj\Debug\dersUc.pdb
